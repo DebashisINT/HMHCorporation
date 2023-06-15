@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "463654917214",
+    "project_id": "hmhcorporationbreezefsm",
+    "storage_bucket": "hmhcorporationbreezefsm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463654917214:android:0ad7014c77e6a4085850cf",
+        "android_client_info": {
+          "package_name": "com.breezefsmhmhcorporation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463654917214-onk3cr3lo8epmtaf53nbi5jmuiml1vtq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5eEhMS1KvewRhcEDElhkAdMWYLyl4DWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463654917214-onk3cr3lo8epmtaf53nbi5jmuiml1vtq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
